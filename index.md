@@ -24,3 +24,10 @@ title: Home
 
 
 更多细节，尽情期待
+
+---
+<div class="page__footer-copyright" style="text-align: center;">
+  <a href="https://beian.miit.gov.cn" rel="nofollow">桂ICP备2024034699号-3</a>
+</div>
+
+---
