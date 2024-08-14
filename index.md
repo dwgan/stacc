@@ -20,6 +20,8 @@ title: "Home"
 
 [Synology (TCL)](http://stacc.top:15000)
 
+[FRP Dashboard](http://stacc.top:7500)
+
 
 
 更多细节，尽情期待
