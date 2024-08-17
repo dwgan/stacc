@@ -16,6 +16,3 @@ title: "Home"
 <div class="page__footer-copyright" style="text-align: left; font-size: 12px;">
   <a href="https://beian.miit.gov.cn" rel="nofollow">桂ICP备2024034699号-3</a>
 </div>
-
-
----
